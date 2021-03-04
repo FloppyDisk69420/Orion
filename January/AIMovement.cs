@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AIMovement : Movement {
-    bool suspicuous, alerted;
+	bool suspicuous, alerted;
 	bool followRoute;
 
 	// Route variables
